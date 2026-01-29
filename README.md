@@ -1,31 +1,38 @@
-Portfolio
+# ✨ **Personal Portfolio**
 
-A minimal personal portfolio website built with HTML, Bootstrap, and CSS.
+A **clean, modern personal portfolio website** built using **HTML, Bootstrap, and CSS** — designed to showcase skills, projects, and professional identity with clarity and style.
 
-Live demo: https://cigarfeine.github.io/Portfolio/
+🌐 **Live Demo**  
+👉 https://cigarfeine.github.io/Portfolio/
 
-📦 Contents
+---
 
-This repository includes static web pages for a typical personal portfolio:
+## 🧩 **What’s Inside**
 
-index.html — Home / landing page
+This repository contains a **static, responsive portfolio** with structured sections:
 
-aboutme.html — About section
+- **`index.html`** — Home / Landing page  
+- **`aboutme.html`** — About Me  
+- **`projects.html`** — Project Showcase  
+- **`educations.html`** — Education Background  
+- **`contactme.html`** — Contact Page  
+- **`index.css`** — Global Styles  
+- **Assets** — Images and media files  
 
-projects.html — Projects showcase
+---
 
-contactme.html — Contact form/page
+## 🚀 **Key Highlights**
 
-educations.html — Education section
+- ✔ **Responsive design** powered by **Bootstrap**
+- ✔ **Minimal, readable, modular HTML**
+- ✔ **Easy to customize and extend**
+- ✔ **Lightweight** — no frameworks, no clutter
 
-index.css — Global styles
+---
 
-Assets (e.g., akbar.jpeg)
+## 🛠 **Getting Started**
 
-🚀 Features
+Clone the repository:
 
-Simple, responsive layout
-
-Built with Bootstrap + custom CSS
-
-Clean, modular HTML structure
+```bash
+git clone https://github.com/Cigarfeine/Portfolio.git
